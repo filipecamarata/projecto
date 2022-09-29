@@ -4,25 +4,36 @@
 .cabecalho{   
     background-color: #061a40;
     text-align: right;  
-    height: 6.3em;   
+    height: 6.5em;   
 }
-.header{
+header > h1{
     text-align: left;
-    color: #ffffff;       
+    color: #ffffff; 
+         
 }
 .logotipo{
     float: left;
+    margin-right: 1em;
   
    
+}
+.link-cabecalho:hover{
+    color: #b8d5f0;
+    border: 2px solid #003559;
+    padding: 7px;
+    border-radius: 7px;
 }
 
 .link-cabecalho{
   color:#ffffff;
   text-decoration: none;
+  margin-right: 20px;
+  font-weight: bold;
   }
 
   body{
     background-color: #b9d6f2;
+    margin: 0px;
 }
 
 main{
