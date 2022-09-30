@@ -1,15 +1,19 @@
 @charset "UTF-8";
+*{
+    margin: 0px;
+    
+}
 
 
 .cabecalho{   
     background-color: #061a40;
     text-align: right;  
-    height: 6.5em;   
+    height: 6.5em;  
+    padding: 10px; 
 }
 header > h1{
     text-align: left;
-    color: #ffffff; 
-         
+    color: #ffffff;           
 }
 .logotipo{
     float: left;
@@ -40,30 +44,33 @@ main{
     width: 960px;
     margin: auto;
     background-color: #b9d6f2;
+    
+}
+section{
     padding-bottom: 10px;
 }
 
 
 .destaque{
     background-color: #ffffff;
-    border-radius: 10px;
-    box-shadow: 5px 5px 10px #0353a48a ;
+    border-radius: 6px;
+    box-shadow: 2px 2px 7px #0353a48a ;
     padding: 20px;
     
 }
 
 .salao{
     background-color: #ffffff;
-    border-radius: 10px;
-    box-shadow: 5px 5px 15px #0353a48a ;
+    border-radius: 6px;
+    box-shadow: 2px 2px 7px #0353a48a ;
     padding: 20px;  
 }
 
 
 .dj{
     background-color: #ffffff;
-    border-radius: 10px;
-    box-shadow: 5px 5px 15px  #0353a48a ;
+    border-radius: 6px;
+    box-shadow: 2px 2px 7px  #0353a48a ;
     padding: 20px;  
     
     
@@ -72,8 +79,8 @@ main{
 
 .fotografo{
     background-color: #ffffff;
-    border-radius: 10px;
-    box-shadow: 5px 5px 15px  #0353a48a ;
+    border-radius: 6px;
+    box-shadow: 2px 2px 7px  #0353a48a ;
     padding: 20px; 
 }
 
