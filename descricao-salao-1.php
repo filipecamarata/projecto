@@ -1,11 +1,11 @@
 <?php include ("cabecalho.php");?>
-<main>
-    <div class="salao">
-        <h2>Faça Ja a Sua Reserva</h2>
+
+<section>
+    <article  class="salao">
+    <h2>Faça Ja a Sua Reserva</h2>
         <p>Descrição completa do salão que se pretende reservar.</p>
         
-        <ul>
-            
+        <ul>            
             <li><strong>Nome:</strong> Salão Roya Plaza</li>
             <li><strong>Endereço:</strong> Rua 7/Talatona/Luanda</li>
             <li><strong>Telefone:</strong> 921889566/923450924</li>
@@ -17,9 +17,9 @@
         </ul>
         <img src="imagens/foto.png" alt="Salão">  
         <img src="imagens/foto.png" alt="Salão">  
-        <img src="imagens/foto.png" alt="Salão"><br>
-        <button class="btn btn-info"><a class="butao-descricao" href="formulario-salao.php">Reservar Salão</a></button>
-    </div>
-</main>
+        <img src="imagens/foto.png" alt="Salão">
+        <p><a class="butao-descricao" href="formulario-salao.php">Reservar Salão</a></p>
+    </article>
+</section>
 
 <?php include ("rodape.php");?>

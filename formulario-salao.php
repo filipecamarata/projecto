@@ -1,11 +1,11 @@
 <?php include ("cabecalho.php");?>
 
-<main>
-    <div class="salao">       
+<section>
+    <article class="salao">
         <h2>Formulário de Reserva</h2>
         <p>Preencha o formulário para reservar o salão.</p>
         <p><a href="salao.php">Voltar</a></p>
-    </div>
-</main>
+    </article>
+</section>
 
-    <?php include ("rodape.php");?>
+<?php include ("rodape.php");?>

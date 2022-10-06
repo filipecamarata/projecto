@@ -1,8 +1,11 @@
 <?php include ("cabecalho.php");?>
 
-    <h1>Events-Spaces</h1>
-    <h2>Faça a sua reserva para DJ</h2>
-    
-    <a href="dj.php">Voltar</a>
+<section>
+    <article class="salao">
+        <h2>Formulário de Reserva</h2>
+        <p>Preencha o formulário para reservar o Dj.</p>
+        <p><a href="dj.php">Voltar</a></p>
+    </article>
+</section>      
 
 <?php include ("rodape.php");?>

@@ -1,8 +1,6 @@
 <?php include ("cabecalho.php");?>
-
-<main>
-    <div class="fotografo">
-
+<section>
+    <article class="fotografo">
         <h2>Faça Ja a Sua Reserva</h2>
         <p>Descrição completa do DJ que se pretende reservar.</p>
         
@@ -17,9 +15,9 @@
         </ul>
         <img src="imagens/fotografo.png" alt="Fotografo">  
         <img src="imagens/fotografo.png" alt="Fotografo">  
-        <img src="imagens/fotografo.png" alt="Fotografo"><br>
-        <button class="btn btn-info"><a class="butao-descricao" href="formulario-fotografo.php">Reservar Fotográfo</a></button>
-    </div>
-</main>   
+        <img src="imagens/fotografo.png" alt="Fotografo">
+        <p><a class="butao-descricao" href="formulario-fotografo.php">Reservar Fotográfo</a></p>
+    </article>
+</section>
 
 <?php include ("rodape.php");?>

@@ -8,8 +8,8 @@
 .cabecalho{   
     background-color: #061a40;
     text-align: right;  
-    height: 6.5em;  
-    padding: 10px; 
+    height: 6.1em;  
+    padding: 5px; 
 }
 header > h1{
     text-align: left;
@@ -39,7 +39,7 @@ header > h1{
 }
 
 main{
-    width: 960px;
+    width: 1000px;
     margin: auto;
     background-color: #b9d6f2;
     
@@ -83,5 +83,6 @@ section{
 }
 
 .butao-descricao{
-    color: #000000;
+    color: #256aff;
+    text-decoration: none;
 }

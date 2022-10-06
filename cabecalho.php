@@ -13,13 +13,13 @@
     <img class="logotipo" src="imagens/logo.png" alt="Logótipo">
     <h1>Events-Spaces</h1>
     <nav>
-        <a class="link-cabecalho" href="index.php">HOME</a>
-        <a class="link-cabecalho" href="destaques.php">DESTAQUES</a>
-        <a class="link-cabecalho" href="salao.php">SALÕES</a>
-        <a class="link-cabecalho" href="dj.php">DJ</a>
-        <a class="link-cabecalho" href="fotografo.php">FOTOGRÁFOS</a>
-        <a class="link-cabecalho" href="#">RESERVAS</a>
-        <a class="link-cabecalho" href="#">SOBRE</a>
+        <a class="link-cabecalho" href="index.php">Home</a>
+        <a class="link-cabecalho" href="destaques.php">Destaques</a>
+        <a class="link-cabecalho" href="salao.php">Salões</a>
+        <a class="link-cabecalho" href="dj.php">Djs</a>
+        <a class="link-cabecalho" href="fotografo.php">Fotográfos</a>
+        <a class="link-cabecalho" href="#">Reservas</a>
+        <a class="link-cabecalho" href="#">Sobre</a>
     </nav>			
 </header> 
     

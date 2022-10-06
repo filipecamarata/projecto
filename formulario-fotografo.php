@@ -1,7 +1,15 @@
 <?php include ("cabecalho.php");?>
 
-  <h2>Faça a sua reserva para fotográfo</h2>
+<section>
+    <article class="fotografo">
+        <h2>Formulário de Reserva</h2>
+        <p>Preencha o formulário para reservar o Fotográfo.</p>
+        <p><a href="fotografo.php">Voltar</a></p>
+    </article>
+</section>
+
+ 
     
-    <a href="fotografo.php">Voltar</a>
+    
 
 <?php include ("rodape.php");?>
