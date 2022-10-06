@@ -23,9 +23,7 @@ header > h1{
 }
 .link-cabecalho:hover{
     color: #b8d5f0;
-    border: 2px solid #003559;
-    padding: 7px;
-    border-radius: 7px;
+    
 }
 
 .link-cabecalho{
