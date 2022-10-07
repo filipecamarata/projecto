@@ -6,10 +6,9 @@
 
 
 .cabecalho{   
-    background-color: #061a40;
-    text-align: right;  
-    height: 6.1em;  
-    padding: 5px; 
+    background-color: #061a40;      
+    height: 4.5em;  
+    padding: 2px; 
 }
 header > h1{
     text-align: left;
@@ -21,11 +20,18 @@ header > h1{
   
    
 }
-.link-cabecalho:hover{
+nav{
+    background-color: #061a40;
+    padding: 2px;
+    padding-bottom: 4px;
+    text-align: right;
+
+}
+.link-cabecalho:hover{    
     color: #b8d5f0;
     
+    
 }
-
 .link-cabecalho{
   color:#ffffff;
   text-decoration: none;

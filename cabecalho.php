@@ -11,8 +11,9 @@
 <body>
 <header class="cabecalho">      
     <img class="logotipo" src="imagens/logo.png" alt="Logótipo">
-    <h1>Events-Spaces</h1>
-    <nav>
+    <h1>Events-Spaces</h1>    		
+</header> 
+<nav>
         <a class="link-cabecalho" href="index.php">Home</a>
         <a class="link-cabecalho" href="destaques.php">Destaques</a>
         <a class="link-cabecalho" href="salao.php">Salões</a>
@@ -20,8 +21,7 @@
         <a class="link-cabecalho" href="fotografo.php">Fotográfos</a>
         <a class="link-cabecalho" href="#">Reservas</a>
         <a class="link-cabecalho" href="#">Sobre</a>
-    </nav>			
-</header> 
+    </nav>	
     
 <main>
     
