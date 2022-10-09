@@ -1,6 +1,6 @@
 <?php include ("cabecalho.php");?>
 <section>
-    <article class="fotografo">
+    <article class="conteudo">
         <h2>Faça Ja a Sua Reserva</h2>
         <p>Descrição completa do DJ que se pretende reservar.</p>
         

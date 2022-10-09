@@ -1,6 +1,6 @@
 <?php include ("cabecalho.php");?>
 <section>
-    <article class="destaque">       
+    <article class="conteudo">       
         <h2>Fotos Em Destaques</h2>
         <img src="imagens/foto.png" alt="Imagem em destaque"> 
         <img src="imagens/imagens.png" alt="Imagem em destaque">

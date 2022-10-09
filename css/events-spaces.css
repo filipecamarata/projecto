@@ -1,12 +1,20 @@
 @charset "UTF-8";
+
 *{
     margin: 0px;
     
 }
+:root{
+    --cor1: #b9d6f2;
+    --cor2: #061a40;
+    --cor3: #0353a4;
+    --cor4: #006daa;
+    --cor5: #003559;
+}
 
 
 .cabecalho{   
-    background-color: #061a40;      
+    background-color: var(--cor2);      
     height: 4.5em;  
     padding: 2px; 
 }
@@ -21,7 +29,7 @@ header > h1{
    
 }
 nav{
-    background-color: #061a40;
+    background-color: var(--cor2);
     padding: 2px;
     padding-bottom: 4px;
     text-align: right;
@@ -55,37 +63,13 @@ section{
 }
 
 
-.destaque{
+.conteudo{
     background-color: #ffffff;
     border-radius: 6px;
     box-shadow: 2px 2px 7px #0353a48a ;
     padding: 20px;
+    margin-bottom: 4px;
     
-}
-
-.salao{
-    background-color: #ffffff;
-    border-radius: 6px;
-    box-shadow: 2px 2px 7px #0353a48a ;
-    padding: 20px; 
-}
-
-
-.dj{
-    background-color: #ffffff;
-    border-radius: 6px;
-    box-shadow: 2px 2px 7px  #0353a48a ;
-    padding: 20px;  
-    
-    
-}
-
-
-.fotografo{
-    background-color: #ffffff;
-    border-radius: 6px;
-    box-shadow: 2px 2px 7px  #0353a48a ;
-    padding: 20px; 
 }
 
 .butao-descricao{

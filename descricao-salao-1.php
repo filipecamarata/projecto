@@ -1,7 +1,7 @@
 <?php include ("cabecalho.php");?>
 
 <section>
-    <article  class="salao">
+    <article  class="conteudo">
     <h2>Faça Ja a Sua Reserva</h2>
         <p>Descrição completa do salão que se pretende reservar.</p>
         
