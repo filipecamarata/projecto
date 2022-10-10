@@ -19,8 +19,8 @@
         <a class="link-cabecalho" href="salao.php">Salões</a>
         <a class="link-cabecalho" href="dj.php">Djs</a>
         <a class="link-cabecalho" href="fotografo.php">Fotográfos</a>
-        <a class="link-cabecalho" href="#">Reservas</a>
-        <a class="link-cabecalho" href="#">Sobre</a>
+        <a class="link-cabecalho" href="#">Reservas</a>    
+        <a class="link-cabecalho" href="#">Login</a>    
     </nav>	
     
 <main>

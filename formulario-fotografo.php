@@ -1,12 +1,12 @@
 <?php include ("cabecalho.php");?>
 
-<section>
-    <article class="conteudo">
-        <h2>Formulário de Reserva</h2>
-        <p>Preencha o formulário para reservar o Fotográfo.</p>
-        <p><a href="fotografo.php">Voltar</a></p>
-    </article>
-</section>
+
+<article>
+    <h2>Formulário de Reserva</h2>
+    <p>Preencha o formulário para reservar o Fotográfo.</p>
+    <p><a href="fotografo.php">Voltar</a></p>
+</article>
+
 
  
     

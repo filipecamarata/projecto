@@ -1,8 +1,7 @@
 <?php include ("cabecalho.php");?>
 
-<section>
-    <article  class="conteudo">
-    <h2>Faça Ja a Sua Reserva</h2>
+ <article>
+        <h2>Faça Ja a Sua Reserva</h2>
         <p>Descrição completa do DJ que se pretende reservar.</p>
         
         <ul>            
@@ -18,7 +17,7 @@
         <img src="imagens/dj-nelasta.png" alt="Dj Nelasta">  
         <img src="imagens/dj-nelasta.png" alt="Dj Nelasta">
         <p><a class="butao-descricao" href="formulario-dj.php">Reservar DJ</a></p>
-    </article>
-</section>
+ </article>
+
 
 <?php include ("rodape.php");?>

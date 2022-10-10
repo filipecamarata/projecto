@@ -10,17 +10,22 @@
     --cor3: #0353a4;
     --cor4: #006daa;
     --cor5: #003559;
+    
+--fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
+--fonte-destaque: 'Bebas Neue', cursive;
 }
 
 
 .cabecalho{   
-    background-color: var(--cor2);      
-    height: 4.5em;  
-    padding: 2px; 
+  background-color: var(--cor2);    
+    min-height: 80px; 
+    padding-top: 10px; 
 }
 header > h1{
     text-align: left;
-    color: #ffffff;           
+    color: #ffffff;  
+    font-family: var(--fonte-destaque); 
+    text-shadow:  2px 2px 0px rgba(0, 0, 0, 0.315);        
 }
 .logotipo{
     float: left;
@@ -30,22 +35,32 @@ header > h1{
 }
 nav{
     background-color: var(--cor2);
-    padding: 2px;
-    padding-bottom: 4px;
+    padding: 10px;    
     text-align: right;
+    padding-top: 20px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.274);
+    
+   
 
-}
-.link-cabecalho:hover{    
-    color: #b8d5f0;
-    
-    
 }
 .link-cabecalho{
   color:#ffffff;
   text-decoration: none;
   margin-right: 20px;
   font-weight: bold;
-  }
+  font-family: var(--fonte-padrao);
+  padding: 5px;
+  transition-duration: 0.5s;
+  border-radius: 5px;
+ 
+  min-width: 510px;
+  margin: auto;
+   }
+
+  
+.link-cabecalho:hover{    
+    color: var(--cor1);   
+}
 
   body{
     background-color: #b9d6f2;
@@ -53,24 +68,23 @@ nav{
 }
 
 main{
-    width: 1000px;
+    max-width: 1000px;
+    min-width: 300px;
     margin: auto;
-    background-color: #b9d6f2;
-    
-}
-section{
-    padding-bottom: 10px;
-}
-
-
-.conteudo{
-    background-color: #ffffff;
-    border-radius: 6px;
+    background-color: #ffffff;   
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
     box-shadow: 2px 2px 7px #0353a48a ;
     padding: 20px;
-    margin-bottom: 4px;
-    
+    margin-bottom: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     
 }
+
+main img{
+    width: 30%;
+}
+
 
 .butao-descricao{
     color: #256aff;
