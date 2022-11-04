@@ -5,12 +5,13 @@
  
 </main>
 <footer style="
-background-color: #1f2124; 
+height: 200px;
+background-color: #757070; 
 color: #ffffff; 
 padding-top: 10px; 
 padding-bottom: 10px;
  "  > 
-        &copy Events-Spaces 2022
+        <p>&copy Events-Spaces 2022</p>
     </footer>
 </body>
 </html>

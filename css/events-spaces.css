@@ -10,22 +10,37 @@
     --cor3: #0353a4;
     --cor4: #006daa;
     --cor5: #003559;
+
+    --cor6: #f2fafc;
+    --cor7: #2222fe;
+    --cor8: #1c0051;
+    --cor9: #3276b1;
+    --cor10:#d6f8f9;
+    --cor11:#e0e0e0;
     
 --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
 --fonte-destaque: 'Bebas Neue', cursive;
+--fonte-alternativa:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background-color: var(--cor6);
+    margin: 0px;
+   
+    
 }
 
 
 .cabecalho{   
-  background-color: var(--cor2);    
+  background-color: var(--cor6);    
     min-height: 80px; 
     padding-top: 10px; 
 }
 header > h1{
     text-align: left;
-    color: #ffffff;  
+    color: var(--cor8);  
     font-family: var(--fonte-destaque); 
-    text-shadow:  2px 2px 0px rgba(0, 0, 0, 0.315);        
+           
 }
 .logotipo{
     float: left;
@@ -34,7 +49,7 @@ header > h1{
    
 }
 nav{
-    background-color: var(--cor2);
+    background-color: var(--cor6);
     padding: 10px;    
     text-align: right;
     padding-top: 20px;
@@ -44,11 +59,11 @@ nav{
 
 }
 .link-cabecalho{
-  color:#ffffff;
+  color: var(--cor8);
   text-decoration: none;
   margin-right: 20px;
   font-weight: bold;
-  font-family: var(--fonte-padrao);
+  font-family: var(--fonte-alternativa);
   padding: 5px;
   transition-duration: 0.5s;
   border-radius: 5px;
@@ -59,15 +74,10 @@ nav{
 
   
 .link-cabecalho:hover{    
-    color: var(--cor1);   
+    color: var(--cor7);   
 }
 
-  body{
-    background-color: #b9d6f2;
-    margin: 0px;
-}
-
-main{
+ main{
     max-width: 1000px;
     min-width: 300px;
     margin: auto;
@@ -77,12 +87,16 @@ main{
     box-shadow: 2px 2px 7px #0353a48a ;
     padding: 20px;
     margin-bottom: 15px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: var(--fonte-alternativa);
      
 }
 
 main img{
     width: 30%;
+}
+
+h2{
+    color: var(--cor8);
 }
 
 
