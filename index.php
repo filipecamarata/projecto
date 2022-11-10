@@ -9,9 +9,9 @@
     <a href="destaques.php"><img src="imagens/foto.png" alt="Imagens de eventos"></a>           
 </article> 
 
-<article >            
-    <a href="destaques.php"><img src="imagens/videos.png" alt="Imagens de eventos"></a>                  
-        <a href="destaques.php"><img src="imagens/videos.png" alt="Videos em destaques"></a> 
+<article > 
+    <a href="destaques.php"><img src="imagens/videos.png" alt="Imagens de eventos"></a>
+    <a href="destaques.php"><img src="imagens/videos.png" alt="Videos em destaques"></a>
     <a href="destaques.php"><img src="imagens/videos.png" alt="Imagens de eventos"></a>           
 </article>   
    
