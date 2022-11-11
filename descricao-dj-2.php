@@ -13,9 +13,9 @@
         <li><strong>Preço de reserva/Noite:</strong> 95.000KZ</li>
         <li><strong>Disponibilidade do DJ:</strong> (datas que já foram reservadas).</li>
     </ul>
-    <img src="imagens/dj-malvado.png" alt="Dj Malvado">  
-    <img src="imagens/dj-malvado.png" alt="Dj Malvado">  
-    <img src="imagens/dj-malvado.png" alt="Dj Malvado">
+    <img src="imagens/malvado01.png" alt="Dj Malvado">  
+    <img src="imagens/malvado04.png" alt="Dj Malvado">  
+    <img src="imagens/malvado03.png" alt="Dj Malvado">
     <p><a class="butao-descricao" href="formulario-dj.php">Reservar DJ</a></p>
 </article>
 

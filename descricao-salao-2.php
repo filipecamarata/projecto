@@ -15,9 +15,9 @@
         <li><strong>Preço de reserva:</strong> 140.000KZ</li>
         <li><strong>Disponibilidade do salão:</strong> (datas que já foram reservadas).</li>
     </ul>
-    <img src="imagens/foto.png" alt="Salão">  
-    <img src="imagens/foto.png" alt="Salão">  
-    <img src="imagens/foto.png" alt="Salão">
+    <img src="imagens/esmeralda01.png" alt="Salão">  
+    <img src="imagens/esmeralda02.png" alt="Salão">  
+    <img src="imagens/esmeralda03.png" alt="Salão">
     <p><a class="butao-descricao" href="formulario-salao.php">Reservar Salão</a></p>
 </article>
 

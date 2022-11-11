@@ -14,9 +14,9 @@
         <li><strong>Preço de reserva/Noite:</strong> 105.000KZ</li>
         <li><strong>Disponibilidade do DJ:</strong> (datas que já foram reservadas).</li>
     </ul>
-    <img src="imagens/dj-zaques.png" alt="Dj Zaques">  
-    <img src="imagens/dj-zaques.png" alt="Dj Zaques">  
-    <img src="imagens/dj-zaques.png" alt="Dj Zaques">
+    <img src="imagens/zaques01.png" alt="Dj Zaques">  
+    <img src="imagens/zaques02.png" alt="Dj Zaques">  
+    <img src="imagens/zaques03.png" alt="Dj Zaques">
     <p><a class="butao-descricao" href="formulario-dj.php">Reservar DJ</a></p>
 </article>
 
