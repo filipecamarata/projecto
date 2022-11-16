@@ -4,15 +4,36 @@
 <article >
     <h2>Destaques</h2>
             
-    <a href="destaques.php"><img src="imagens/royal01.png" alt="Imagens de eventos"></a>                  
+<div class="linha espaco">
+        <a href="destaques.php"><img src="imagens/royal01.png" alt="Imagens de eventos"></a>
+        <p>Salão de festa Royal plaza. Faça ja a sua reserva.</p> 
+</div>
+
+<div class="linha">
     <a href="destaques.php"><img src="imagens/esmeralda06.png" alt="Videos em destaques"></a> 
-    <a href="destaques.php"><img src="imagens/alegria06.png" alt="Imagens de eventos"></a>           
+    <p>Salão de festa Esmeralda </p>
+</div>    
+
+<div class="linha">
+    <a href="destaques.php"><img src="imagens/alegria06.png" alt="Imagens de eventos"></a> 
+    <p>Salão de festa Alegria</p>          
+</div>  
 </article> 
 
 <article > 
-    <a href="destaques.php"><img src="imagens/videos.png" alt="Imagens de eventos"></a>
+    <div class="linha espaco">
+        <a href="destaques.php"><img src="imagens/videos.png" alt="Imagens de eventos"></a>
+        <p>Salão de festa Royal plaza</p>       
+    </div>
+    <div class="linha">
     <a href="destaques.php"><img src="imagens/videos.png" alt="Videos em destaques"></a>
-    <a href="destaques.php"><img src="imagens/videos.png" alt="Imagens de eventos"></a>           
+    <p>Salão de festa Esmeralda </p>
+    </div>  
+
+    <div class="linha">
+    <a href="destaques.php"><img src="imagens/videos.png" alt="Imagens de eventos"></a> 
+    <p>Salão de festa Alegria</p> 
+    </div>            
 </article>   
    
 <article>
