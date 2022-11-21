@@ -116,10 +116,20 @@ div.espaco{
 div > p.paragrafos{
     color: var(--cor2);
     text-align: center;
-    font-size: 1.5em;
+    font-size: 1em;
     font-weight: bolder;
 
     padding: 10px;
+    height: 33px;
+    width: 250px;
+}
+p.alinhamento{
+    color: var(--cor2);
+    text-align: justify;
+    font-size: 1em;
+    font-weight: bolder;
+
+    padding: 5px;
     height: 33px;
     width: 250px;
 }
@@ -141,4 +151,16 @@ a.botao:hover{
     background-color: #1c0051;
     color: #d6f8f9;
     transition: 0.6s;
+}
+
+div.img-vid-destaque{ 
+    text-align: center;      
+    background-color: var(--cor6);
+    padding: 15px;
+    margin: auto;      
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.555);
+    border-radius: 10px ;
+    width: 840px;
+    margin: auto;
+    margin-bottom: 10px;
 }
