@@ -65,11 +65,11 @@ nav{
   border-radius: 5px;
  
   min-width: 510px;
-  margin: auto;
+  margin: auto; 
    }
   
 .link-cabecalho:hover{    
-    color: var(--cor7);   
+    color: var(--cor7); 
 }
 
  main{
@@ -106,7 +106,7 @@ div.linha{
     margin-right: 15px;
     margin-bottom: 15px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.555);
-    border-radius: 10px ;
+    border-radius: 10px ; 
 }
 
 div.espaco{
@@ -147,7 +147,7 @@ a.botao{
     padding: 14px;
 }
 
-a.botao:hover{
+.botao:hover{
     background-color: #1c0051;
     color: #d6f8f9;
     transition: 0.6s;
@@ -163,4 +163,57 @@ div.img-vid-destaque{
     width: 840px;
     margin: auto;
     margin-bottom: 10px;
+}
+
+form{
+    position: relative;
+    border: 2px solid #1c0051;
+    border-radius: 6px;
+    padding: 15px;
+    width: 600px;
+    height: 250px;
+    margin: auto;
+    background-color: #fdfbfb;;
+}
+div{
+    margin-top: 5px;
+    margin-bottom: 7px;
+}
+h4{
+    font-family: var(--fonte-alternativa);
+    color: var(--cor8);
+}
+
+fieldset{
+    padding: 7px;
+    width: 550px;
+    border: 2px solid #1c0051;
+    margin-bottom: 7px;
+}
+
+legend{
+    font-weight: bold;
+    font-family: var(--fonte-alternativa);
+    color: var(--cor8);
+}
+label{
+    font-family: var(--fonte-alternativa);
+}
+input{
+    border: 1.5px solid #1c0051;
+    margin: 6px;
+    font-family: var(--fonte-alternativa);
+}
+
+input.botao{   
+    color: var(--cor6);
+    width: 120px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: bolder;
+    border-radius: 15px;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.377);
+    background-color: var(--cor7);
+    padding: 7px;
 }

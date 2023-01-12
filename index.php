@@ -17,7 +17,7 @@
 <div class="linha">
     <a href="destaques.php"><img src="imagens/alegria06.png" alt="Imagens de eventos"></a> 
     <p  class="alinhamento">Salão de Festa Alegria</p>          
-</div>  
+</div> 
 </article> 
 
 <article > 
@@ -55,7 +55,7 @@
             <p class="paragrafos">Salão de Festa Esmeralda</p>
             <a href="descricao-salao-2.php" class="botao">Reservar</a>
         </div>  
-              
+                  
 </article>
    
 <article>
@@ -86,7 +86,7 @@
         <p class="paragrafos"> Fotográfo Amaral Oliveira</p>
         <a href="descricao-fotografo-1.php" class="botao">Reservar</a>
     </div> 
-
+    
     <div class="linha"> 
         <a href="fotografo.php"><img src="imagens/fotografo04.png" alt="Imagens de eventos"></a>
         <p class="paragrafos"> Fotográfo Ricardo Hamilton</p>
