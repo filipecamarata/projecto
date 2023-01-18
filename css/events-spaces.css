@@ -90,10 +90,6 @@ h2{
     margin-bottom: 15px;
 }
 
-.butao-descricao{
-    color: #256aff;
-    text-decoration: none;
-}
 
 div.linha{   
     overflow: hidden;
@@ -132,6 +128,22 @@ p.alinhamento{
     padding: 5px;
     height: 33px;
     width: 250px;
+}
+a.btn-form{
+    display: inline-block;
+    width: 160px;
+    background-color: #1c0051;
+    color: #d6f8f9;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: bolder;
+    border-radius: 30px;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.377);
+    margin-top: 7px;
+    margin-bottom: 7px;
+    padding: 9px;
+    
 }
 a.botao{
     display: block;
@@ -173,7 +185,9 @@ form{
     width: 600px;
     height: 250px;
     margin: auto;
+    margin-bottom: 15px;
     background-color: #fdfbfb;;
+    box-shadow: 3px 4px 5px rgba(0, 0, 0, 0.281);
 }
 div{
     margin-top: 5px;
@@ -205,15 +219,17 @@ input{
     font-family: var(--fonte-alternativa);
 }
 
-input.botao{   
+input.botao{      
     color: var(--cor6);
     width: 120px;
     text-align: center;
     text-decoration: none;
     font-size: 1em;
     font-weight: bolder;
-    border-radius: 15px;
+    border-radius: 30px;
     box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.377);
     background-color: var(--cor7);
     padding: 7px;
 }
+
+

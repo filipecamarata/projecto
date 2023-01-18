@@ -16,7 +16,7 @@
     <img src="imagens/fotografo.png" alt="Fotografo">  
     <img src="imagens/fotografo.png" alt="Fotografo">  
     <img src="imagens/fotografo.png" alt="Fotografo">
-    <p><a class="butao-descricao" href="formulario-fotografo.php">Reservar Fotográfo</a></p>
+    <p><a class="btn-form" href="formulario-fotografo.php">Reservar Fotográfo</a></p>
 </article>
 
 

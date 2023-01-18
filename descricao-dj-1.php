@@ -16,7 +16,7 @@
         <img src="imagens/nelasta01.png" alt="Dj Nelasta">  
         <img src="imagens/nelasta03.png" alt="Dj Nelasta">  
         <img src="imagens/nelasta04.png" alt="Dj Nelasta">
-        <p><a class="butao-descricao" href="formulario-dj.php">Reservar DJ</a></p>
+        <p><a class="btn-form" href="formulario-dj.php">Reservar DJ</a></p>
  </article>
 
 

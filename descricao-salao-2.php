@@ -18,7 +18,7 @@
     <img src="imagens/esmeralda01.png" alt="Salão">  
     <img src="imagens/esmeralda02.png" alt="Salão">  
     <img src="imagens/esmeralda03.png" alt="Salão">
-    <p><a class="butao-descricao" href="formulario-salao.php">Reservar Salão</a></p>
+    <p><a class="btn-form" href="formulario-salao.php">Reservar Salão</a></p>
 </article>
 
 

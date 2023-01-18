@@ -17,7 +17,7 @@
     <img src="imagens/zaques01.png" alt="Dj Zaques">  
     <img src="imagens/zaques02.png" alt="Dj Zaques">  
     <img src="imagens/zaques03.png" alt="Dj Zaques">
-    <p><a class="butao-descricao" href="formulario-dj.php">Reservar DJ</a></p>
+    <p><a class="btn-form" href="formulario-dj.php">Reservar DJ</a></p>
 </article>
 
 

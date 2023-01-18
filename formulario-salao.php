@@ -33,7 +33,7 @@
 
     </form>
 
-    <p><a href="salao.php">Voltar</a></p>
+    <p><a class="btn-form" href="salao.php">Voltar</a></p>
 </article>
 
 
