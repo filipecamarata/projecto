@@ -47,13 +47,13 @@
         <div class="linha">
              <a href="salao.php"><img src="imagens/alegria02.png" alt="Salão para reservar"></a> 
              <p class="paragrafos">Salão de Festa Quinta Da Alegria</p>
-             <a href="#" class="botao">Reservar</a>
+             <a href="descricao-salao-2.php" class="botao">Reservar</a>
         </div>   
 
         <div class="linha">
             <a href="salao.php"><img src="imagens/esmeralda01.png" alt="Imagens de eventos"></a> 
             <p class="paragrafos">Salão de Festa Esmeralda</p>
-            <a href="descricao-salao-2.php" class="botao">Reservar</a>
+            <a href="descricao-salao-3.php" class="botao">Reservar</a>
         </div>  
                   
 </article>

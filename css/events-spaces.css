@@ -233,3 +233,40 @@ input.botao{
 }
 
 
+aside{
+    background-color: #f0f8ff;
+    width: 450px;
+    height: 370px;
+    padding: 15px;
+    margin-bottom: 10px;
+    border: 2px solid #1c0051;
+    box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.377);
+    float: right;
+    border-radius: 10px 7px 10px 7px;
+    
+}
+ul{
+    list-style: none;
+    font-family: var(--fonte-alternativa);
+  
+}
+li{
+    margin-bottom: 12px;
+}
+
+ul > li > strong.cor-desc{
+    color: #1c0051;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+h3.descricao {
+    font-size: 1em;
+    font-family: var(--fonte-destaque) ;
+    color: #1c0051;
+    margin-bottom: 20px;
+}
+p.desc{
+    text-align: center;
+    margin: 15px;
+}
