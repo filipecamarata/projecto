@@ -5,7 +5,7 @@
     <h2>Formulário de Reserva</h2>
    
 
-    <form action="#" method="post">
+    <form class="form-reserva" action="#" method="post">
        <h4>Dados Pessoais do Cliente </h3>
     <div>
             <label for="inome">Nome: </label>

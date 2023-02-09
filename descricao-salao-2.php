@@ -4,7 +4,7 @@
 <article>
     <h2>Faça Ja a Sua Reserva</h2>
 
-    <aside>
+    <aside class="aside-desc">
         <h3 class="descricao">Descrição completa do salão que se pretende reservar</h3>
         
         <ul class="ord">

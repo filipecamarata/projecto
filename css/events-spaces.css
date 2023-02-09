@@ -177,7 +177,7 @@ div.img-vid-destaque{
     margin-bottom: 10px;
 }
 
-form{
+form.form-reserva{
     position: relative;
     border: 2px solid #1c0051;
     border-radius: 6px;
@@ -186,7 +186,7 @@ form{
     height: 250px;
     margin: auto;
     margin-bottom: 15px;
-    background-color: #fdfbfb;;
+    background-color: #fdfbfb;
     box-shadow: 3px 4px 5px rgba(0, 0, 0, 0.281);
 }
 div{
@@ -233,7 +233,7 @@ input.botao{
 }
 
 
-aside{
+aside.aside-desc{
     background-color: #f0f8ff;
     width: 450px;
     height: 370px;
@@ -270,3 +270,90 @@ p.desc{
     text-align: center;
     margin: 15px;
 }
+
+/* PÁGINA DE LOGIN */
+
+h1.h1-login{
+    font-family: var(--fonte-alternativa);
+    color: var(--cor8);
+    padding: 10px;
+    text-align: center;
+}
+
+aside.login{
+    background-color: #dde5ec;
+    padding: 15px;
+    width: 650px;
+    margin: auto;
+}
+
+p.pa-login{
+    margin-bottom: 7px;
+    font-size: 1.03em;
+    text-align: center;
+}
+
+h2.h2-login{
+    color: var(--cor8);
+    padding: 10px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+form.form-login{
+    position: relative;
+    border: 1px solid #1c0051;
+    border-radius: 6px;
+    padding: 15px;
+    width: 650px;
+    height: 140px;
+    margin: auto;
+    margin-bottom: 15px;
+    background-color: #f8f8f8;
+    box-shadow: 3px 4px 5px rgba(0, 0, 0, 0.281); 
+}
+
+label.lab-login{
+    font-size: 1.05em;
+    font-weight: bold;
+    color: var(--cor8);
+
+}
+label.log{
+    margin-left: 3px;
+}
+
+input.in-login{
+    width: 550px;
+    height: 15px;
+    padding: 5px;
+    background-color: #c9ebecaf;
+    border: 1px solid #1c0051;
+}
+
+input.btn-login, a.btn-login{
+    color: var(--cor6);
+    width: 120px;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 0.9em;
+    font-weight: bolder;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.377);
+    background-color: var(--cor7);
+   
+}
+
+input.btn-login:hover, a.btn-login:hover{
+    background-color: #1c0051;
+    color: #d6f8f9;
+    transition: 0.6s;
+}
+
+input.btn-login{
+    margin-left: 58px;
+}
+
+
+/* PÁGINA DE LOGIN */

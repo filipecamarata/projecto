@@ -20,7 +20,7 @@
         <a class="link-cabecalho" href="dj.php">Djs</a>
         <a class="link-cabecalho" href="fotografo.php">Fotográfos</a>
         <a class="link-cabecalho" href="#">Reservas</a>   
-        <a class="link-cabecalho" href="#">Login</a>  
+        <a class="link-cabecalho" href="login.php">Login</a>  
     </nav>	
     
 <main>
